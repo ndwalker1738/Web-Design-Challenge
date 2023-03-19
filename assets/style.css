@@ -1,0 +1,32 @@
+#navbar-container {
+    background-color: teal;
+}
+
+body {
+    background-color: #ededed;
+}
+
+.description-content{
+    padding:0;
+    margin-top: 0;
+    background-color: #fff;
+}
+
+#imgNav-area{
+    width:100%;
+    padding: 30 px 30 px 43 px;
+    margin-top: 32px;
+    background-color: #fff;
+    display: flex; flex-wrap: wrap;
+}
+
+.panel{
+    max-width: 100%;
+    height:auto;
+
+
+}
+
+#imgNav-area img{
+    width:50%;
+}
